@@ -9,18 +9,24 @@ var B = Georges St-Pierre
 var C = Ronda Rousey
 print (C)
 
+var D = Randy Couture
+print (D)
 
+var E = Royce Gracie
+print (D)
 
-Randy Couture 
+var F = Ken Shamrock 
+print (F)
 
-Royce Gracie
+var G = Brock Lesnar 
+print (G)
 
-Ken Shamrock 
+var H = Conor McGregor
+print (H)
 
-Brock Lesnar
+var I = Jon Jones
+print (I)
 
-Conor McGregor
+var J = James Bond
+print (J)
 
-Jon Jones
-
-James Bond
